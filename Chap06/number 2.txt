@@ -2,3 +2,7 @@ var name = "Nick";
 for (var i = 0; i < name.length; i++) {
      console.log("My name contains the letter " + name[i] + ".");
 }
+My name contains the letter N.
+My name contains the letter i.
+My name contains the letter c.
+My name contains the letter k.
