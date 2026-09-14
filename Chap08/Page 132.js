@@ -7,3 +7,4 @@ pickRandomWord(randomWords);
 
 pickRandomWord(["Charlie", "Raj", "Nicole", "Kate", "Sandy"]);
 
+consoel.log(pickRandomWord(randomWords));
