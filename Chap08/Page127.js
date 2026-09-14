@@ -4,3 +4,9 @@ var drawCats = function (howManyTimes) {
  }
 };
 drawCats(5);
+0 =^.^=
+1 =^.^=
+2 =^.^=
+3 =^.^=
+4 =^.^=
+ 
