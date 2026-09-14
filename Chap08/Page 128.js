@@ -4,3 +4,8 @@ var printMultipleTimes = function (howManyTimes, whatToDraw) {
  }
 };
 printMultipleTimes(5, "=^.^=");
+0 =^.^=
+1 =^.^=
+2 =^.^=
+3 =^.^=
+4 =^.^=
